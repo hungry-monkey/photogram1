@@ -519,6 +519,7 @@ DEPENDENCIES
   capybara
   carrierwave
   cloudinary
+  devise
   dotenv-rails
   draft_generators!
   execjs
